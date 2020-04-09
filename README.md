@@ -1,6 +1,6 @@
 # arduwire
 
 # Overview
-The Arduwire UNO, it is the shield for the arduino UNO, this device allow perform test continuity, open, short, miswires to cables and harness. The Arduwire UNO have 32 test points (TP), indicator of the pass or fail with the buzzer, and it is possible to make test to different kind of cables like to DSUB, USB, RJ45, IDC etc.,
+The Arduwire UNO is a portable shield and stand-alone cable / harness tester for cables of up 32 test points. The shield detects opens, shorts, and miswires within one second by comparing test results with a golden file or from a sample cable. Upon error detection, an error can be displayed on the LCD display and error of the LED indicator and speaker.
 
 This shield it is compatible with arduino UNO only, 
